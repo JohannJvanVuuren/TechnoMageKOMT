@@ -9,7 +9,9 @@ I would love to collaborate on some projects, but I think I am too inexperienced
 My academic background is scientific (Chemistry and Biochemistry), but I have decided to pursue a career in web development to work from home in a freelance capacity (initially), and to satisfy a life-long desire to work in software development. I have been working in clinical laboratory 
 medicine up until now and have had to master numerous different software systems related to this specialisation which strengthend my already established interest in computer coding.
 
-Another significant reason for choosing  to pursue this career path is that I am bipolar and agoraphobic which makes conventional employment less than ideal. In order to get to an industry standard of skill I have retired from my former profession to pursue this avenue fulltime. I, therefore have a very steep learning curve and limited time to get to a level of skill where I can start making some money.
+The conventional working environment does not really suite my personality and I have finally gathered enough life savings to resign from my normal employment to pursue this new path fulltime.
 
-Please feel free to contact me at technomagekomt@gmail.com. It would be very cool to get an informal mentor to accompany me on this learning curve.
+I, therefore have a very steep learning curve and limited time to get to a level of skill where I can start making some money.
+
+Wish me luck and please feel free to contact me at technomagekomt@gmail.com. It would be very cool to get an informal mentor to accompany me on this learning curve.
 
