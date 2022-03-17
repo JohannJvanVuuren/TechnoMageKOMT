@@ -1,6 +1,6 @@
 Hi, I’m Johann J/van Vuuren (@TechnoMageKOMT) and I live in Johannesburg, South Africa.  
 
-I’m interested in web and web application developement as well as mobile application developement.  
+I’m interested in web and web application developement as well as mobile application development.  
 
 My current study areas are HTML5, CSS3 and JavaScript, but I will soon start with Python and some PHP as well; and would eventually like to add Java to my skill set as well. Coding is not entirely new to me. I have done some explorations of C, C++ and Python in the past.  
 
